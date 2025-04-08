@@ -1,0 +1,28 @@
+﻿  main.cpp
+D:\project\8.pvz\main.cpp(226,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\project\8.pvz\main.cpp(309,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\project\8.pvz\main.cpp(311,68): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(311,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(322,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\8.pvz\main.cpp(375,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(375,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(392,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(392,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(409,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(409,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(536,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(536,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(642,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\project\8.pvz\main.cpp(741,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(743,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\project\8.pvz\main.cpp(744,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\project\8.pvz\main.cpp(766,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(766,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(767,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(767,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(770,23): warning C4305: “=”: 从“double”到“float”截断
+D:\project\8.pvz\main.cpp(865,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(866,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\project\8.pvz\main.cpp(893,20): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+D:\project\8.pvz\main.cpp(895,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  pvz.vcxproj -> D:\project\8.pvz\x64\Debug\pvz.exe
