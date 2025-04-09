@@ -1039,7 +1039,7 @@ void updateBullets() {
 	}
 }
 
-//检查僵尸碰撞实现
+ //检查僵尸碰撞实现
 void collisionCheck() {
 
 	//豌豆子弹与僵尸的碰撞检测
